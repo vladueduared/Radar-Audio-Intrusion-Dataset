@@ -24,6 +24,18 @@ Room 2 was located in a different building and had a comparable room size and se
 
 Room 2 was used exclusively for external evaluation. No Room 2 data were used for model training, feature-scaling estimation, classifier selection, decision-threshold selection, fusion-rule selection, or stateful alarm parameter tuning.
 
+## Download
+
+The complete dataset is distributed through the GitHub Releases section.
+
+**Current release: V1.0**
+
+The release archive contains all 80 recording sessions, including:
+- S001-S070: Room 1 development and primary evaluation data;
+- S071-S080: Room 2 external cross-environment evaluation data.
+
+The archive includes radar recordings, stereo audio recordings, event annotations, session metadata, and supporting documentation.
+
 ## Repository Structure
 
 ```text
