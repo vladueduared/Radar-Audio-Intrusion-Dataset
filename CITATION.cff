@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+
+title: "Radar-Audio Intrusion Dataset for Privacy-Preserving Indoor Alarm Detection"
+
+authors:
+  - family-names: "Vladu"
+    given-names: "Eduard"
+    affiliation: "Technical University of Cluj-Napoca"
+
+  - family-names: "Rostas"
+    given-names: "Luminita"
+    affiliation: "Technical University of Cluj-Napoca"
+
+  - family-names: "Battigelli"
+    given-names: "Alessandro"
+    affiliation: "Technical University of Cluj-Napoca"
+
+  - family-names: "Domnici"
+    given-names: "Dominic"
+    affiliation: "Technical University of Cluj-Napoca"
+
+  - family-names: "Neag"
+    given-names: "Marius"
+    affiliation: "Technical University of Cluj-Napoca"
+
+version: "1.0"
+date-released: "2026-10-01"
+
+repository-code: "https://github.com/USERNAME/radar-audio-intrusion-dataset"
+url: "https://github.com/USERNAME/radar-audio-intrusion-dataset"
+
+abstract: >
+  Multimodal radar-audio dataset for camera-free indoor intrusion-related
+  alarm detection. The dataset contains 80 recording sessions acquired in
+  two indoor environments. Sessions S001-S070 were used for model development
+  and primary evaluation, while sessions S071-S080 were acquired in a second
+  room located in a different building and were used exclusively for
+  cross-environment evaluation. The public release contains 60 GHz radar
+  macro-detection data, stereo audio recordings, event annotations,
+  session-level metadata, and supporting documentation. No video recordings
+  are included.
